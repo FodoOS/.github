@@ -1,7 +1,7 @@
 # FodoOS
 
-FodoOS "organization" is a series of projects under the same idea, related together and made from different languages motly the C programming language and Assembly.
-- Starting as a 32-bit Kernel fully functional with standard library and a simple graphics using VGA.
+FodoOS "organization" is a series of projects under the same idea, related together and made from different languages mostly the C programming language and Assembly.
+- Starting as a 32-bit Kernel fully functional with standard library and a simple graphics using VGA interface.
 - A second linked program would be a C language compiler.
 
 ## Objectives
